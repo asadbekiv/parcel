@@ -1,0 +1,15 @@
+{
+  "name": "parcel-test",
+  "version": "1.0.0",
+  "description": "practicing with  parceljs",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel src/index.html",
+    "build": "parcel build --dist-dir public"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.12.0"
+  }
+}
